@@ -8,13 +8,6 @@ Our project, Welcome to To-Do List Project, is a platform designed to help you e
 - **Mark as Completed:** Once a task is done, mark it as checked to keep track of your accomplishments.
 - **Effortless Task Management:** Streamline your work by managing tasks effortlessly on our user-friendly platform.
 
-## Getting Started
-
-To start using To-Do List Project, follow these simple steps:
-
-1. **Installation:** [Provide instructions on how to install or access the platform]
-2. **Configuration:** [Include any configuration steps or settings needed]
-3. **Create Your First Task:** [Guide users on creating their initial tasks]
 
 ## Usage
 
